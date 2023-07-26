@@ -11,7 +11,7 @@ export default function SocketProvider({children , id }) {
    const [socket , setSocket] = useState() 
 
    useEffect(()=>{
-     const newSocket = io('http://localhost:3005',{
+     const newSocket = io('https://chat-application-backend-7ssd.onrender.com',{
       query : {id} 
      })
      setSocket(newSocket)
