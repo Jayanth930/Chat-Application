@@ -92,7 +92,11 @@ Don't forget to give the project a star! Thanks again!
 **OfCourse I haven't created  any `Issuses` but Its to explain how a pull request can be made**
 
 
+##ScreenShots
 
+![conversations jpg](https://github.com/Jayanth930/Chat-Application/assets/88278632/18c71898-5c66-4a12-a3dc-7eccc43eb719)
+
+![conversations-2(Multiple People) jpg](https://github.com/Jayanth930/Chat-Application/assets/88278632/1c7e4c15-6b4d-47e9-ab5e-c8ba7630da8e)
 
 
 <!-- CONTACT -->
