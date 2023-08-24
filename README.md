@@ -19,7 +19,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Procedure for Interacting with the Application">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -75,28 +75,26 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- ROADMAP -->
 
-<!-- CONTRIBUTING -->
-## Contributing
+## Procedure for Interacting with the Application 
+1. Enter `Create a New Id` button , It shows your Id in the **Bottom Left** of the Page that is opened Like `Your Id : 3e71b2cd-be8e-4c80-b282-9b0cd07d1be9`
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+**STEP-1**
+![Step-1](https://github.com/Jayanth930/Chat-Application/assets/88278632/e36e223a-7581-476d-955c-6728c734cf86)
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+3. Then Open another Tab and Do the Same U get 2 Different Ids so that u can see how my Application Talks using `socket.io`
+4. Then Goto Contacts Tab click on Create Contact Add Id : **Another Chrome Tab id** And some random name
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+**STEP-2**
+![Step-2](https://github.com/Jayanth930/Chat-Application/assets/88278632/f350f037-3d5f-4a80-8327-eead94c464f2)
+  
+6. Then Goto conversations Tab then click **Create Conversation** and add this contact , Once done a conversation will be created Then Click to view it and Send Message , which will be received by Another Tab  
 
-**OfCourse I haven't created  any `Issuses` but Its to explain how a pull request can be made**
+**STEP-3**
+![Step-3](https://github.com/Jayanth930/Chat-Application/assets/88278632/0e227c24-2e89-4634-bde8-682343b634ea)
 
+**STEP-4**
+![Step-4](https://github.com/Jayanth930/Chat-Application/assets/88278632/15bb9d9c-1a6f-4fd1-9c48-09b888ddeceb)
 
-##ScreenShots
-
-![conversations jpg](https://github.com/Jayanth930/Chat-Application/assets/88278632/18c71898-5c66-4a12-a3dc-7eccc43eb719)
-
-![conversations-2(Multiple People) jpg](https://github.com/Jayanth930/Chat-Application/assets/88278632/1c7e4c15-6b4d-47e9-ab5e-c8ba7630da8e)
 
 
 <!-- CONTACT -->
